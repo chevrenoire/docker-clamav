@@ -14,7 +14,7 @@ Try the alpine based version:
 Alpine version reduces foot print to something about 10%.
 
 ## Hub
-Find new hub image at [hub.docker.com](https://hub.docker.com/r/mkodockx/docker-clamav)
+Find the hub images at [hub.docker.com](https://hub.docker.com/r/mkodockx/docker-clamav)
 
 ## About
 Dockerized open source antivirus daemons for use with 
