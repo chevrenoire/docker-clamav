@@ -55,4 +55,4 @@ USER clamav
 
 CMD ["/bootstrap.sh"]
 
-HEALTHCHECK --start-period=500s CMD /check.sh
+#HEALTHCHECK --start-period=500s CMD /check.sh
